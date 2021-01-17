@@ -1,0 +1,10 @@
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\WFCaixaEletronico.exe.config
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\WFCaixaEletronico.exe
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\WFCaixaEletronico.pdb
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\WFCaixaEletronico.csprojAssemblyReference.cache
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\WFCaixaEletronico.Form1.resources
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\WFCaixaEletronico.Properties.Resources.resources
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\WFCaixaEletronico.csproj.GenerateResource.cache
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\WFCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\WFCaixaEletronico.exe
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\WFCaixaEletronico.pdb

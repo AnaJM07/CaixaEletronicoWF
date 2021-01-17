@@ -1,0 +1,13 @@
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\netcoreapp3.1\WFCaixaEletronico.exe
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\netcoreapp3.1\WFCaixaEletronico.deps.json
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\netcoreapp3.1\WFCaixaEletronico.runtimeconfig.json
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\netcoreapp3.1\WFCaixaEletronico.runtimeconfig.dev.json
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\netcoreapp3.1\WFCaixaEletronico.dll
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\bin\Debug\netcoreapp3.1\WFCaixaEletronico.pdb
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\netcoreapp3.1\WFCaixaEletronico.csprojAssemblyReference.cache
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\netcoreapp3.1\WFCaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\netcoreapp3.1\WFCaixaEletronico.AssemblyInfo.cs
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\netcoreapp3.1\WFCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\netcoreapp3.1\WFCaixaEletronico.dll
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\netcoreapp3.1\WFCaixaEletronico.pdb
+C:\Users\Note I5\source\repos\WFCaixaEletronico\WFCaixaEletronico\obj\Debug\netcoreapp3.1\WFCaixaEletronico.genruntimeconfig.cache
